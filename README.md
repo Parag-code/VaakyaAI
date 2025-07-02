@@ -1,4 +1,4 @@
-# VaakyaAI – Speak, Analyze, Understand 🎙️
+#🎙️VaakyaAI – Speak, Analyze, Understand 
 
 > Speak naturally, and let AI write it beautifully for you.
 
