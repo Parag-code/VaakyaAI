@@ -71,3 +71,12 @@ A `.wav` audio file:
   📄 A clean, downloadable report with text, visuals, and emotion insights.
 
 ---
+
+
+## 🙏 Acknowledgments
+
+- 🤗 [HuggingFace](https://huggingface.co/) for emotion and sentiment models  
+- 🎤 [Google Speech Recognition API](https://cloud.google.com/speech-to-text)  
+- ✨ [Streamlit](https://streamlit.io/) for the elegant UI  
+- 📄 [ReportLab](https://www.reportlab.com/) for PDF creation  
+- ☁️ [WordCloud](https://github.com/amueller/word_cloud) and [Matplotlib](https://matplotlib.org/) for visualizations
